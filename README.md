@@ -13,29 +13,12 @@ Features
   * Distress tolerance skills
   * Emotion regulation skills
 * Entry View
-  * Thoughts / Journaling
-  * Emotions
-    * Emotion
-    * Intensity
-    * Trigger
-    * Response
-    * Outcome
-  * Urges
-    * Urge
-    * Intensity
-    * Trigger
-    * Response
-    * Outcome
-  * Actions
-    * Action
-    * Trigger
-    * Outcome
-  * Events
-    * Event
-    * Response
-  * Suggestions
-    * Skills
-    * Actions
+  * **Thoughts / Journaling**
+  * **Emotions**: Emotion, intensity, trigger, response, outcome
+  * **Urges**: Urge, intensity, trigger, response, outcome
+  * **Actions**: Action, trigger, outcome
+  * **Events**: Event, response
+  * **Suggestions**: Skills, actions
 * History View
   * View entry elements on timeline
   * Historical statistics
