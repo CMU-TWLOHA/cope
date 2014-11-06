@@ -3,8 +3,6 @@ Cope
 
 **Purpose of App**: Many of us cope with emotional distress using undesired behaviors such as self-injury, eating disorder behaviors, and addictive behaviors. **Cope** helps you develop skills to manage and change your emotions, thoughts, urges, and behaviors.
 
-Tools for Specific Behaviors: We recognize that coping strategies differ depending on the undesired behavior. Although we want as many features as possible to be shared across behaviors, we also need to include some feature differences for different undesired behaviors and coping strategies.
-
 Features
 
 User authentication with optional password reprompt
@@ -58,3 +56,11 @@ Emotion regulation skills
 Mindfulness skills
 (Synced) User Profile Information
 Entries
+
+Open Issues
+-----------
+
+**Tools for Specific Behaviors.**
+
+We recognize that coping strategies differ depending on the undesired behavior. Although we want as many features as possible to be shared across behaviors, we also need to include some feature differences for different undesired behaviors and coping strategies.
+
