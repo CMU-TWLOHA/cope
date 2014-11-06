@@ -1,4 +1,4 @@
-Cope
+Cope ([page](http://cmu-twloha.github.io/cope/))
 ====
 
 **Purpose of App**: Many of us cope with emotional distress using undesired behaviors such as self-injury, eating disorder behaviors, and addictive behaviors. **Cope** helps you develop skills to manage and change your emotions, thoughts, urges, and behaviors.
