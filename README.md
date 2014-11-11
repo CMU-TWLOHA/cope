@@ -10,7 +10,7 @@ Features
 * Data sync & backup
 * Homepage View
   * ??
-  * Goals (input by user somewhere)
+  * Goals (input by user somewhere) 
   * Items configurable in settings
 * Skills View
   * Mindfulness skills
