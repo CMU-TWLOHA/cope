@@ -8,10 +8,14 @@ Features
 
 * User authentication with optional password reprompt
 * Data sync & backup
+* Homepage View
+  * ??
+  * Items configurable in settings
 * Skills View
   * Mindfulness skills
   * Distress tolerance skills
   * Emotion regulation skills
+  * Issue-specific skills
 * Entry View
   * **Thoughts / Journaling**
   * **Emotions**: Emotion, intensity, trigger, response, outcome
@@ -19,6 +23,7 @@ Features
   * **Actions**: Action, trigger, outcome
   * **Events**: Event, response
   * **Suggestions**: Skills, actions
+  * **Issue-specific items**
 * History View
   * View entry elements on timeline
   * Historical statistics
