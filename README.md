@@ -3,35 +3,56 @@ Cope ([page](http://cmu-twloha.github.io/cope/))
 
 **Purpose of App**: Many of us cope with emotional distress using undesired behaviors such as self-injury, eating disorder behaviors, and addictive behaviors. **Cope** helps you develop skills to manage and change your emotions, thoughts, urges, and behaviors.
 
+TODO: refine purpose 
+TODO: Use cases & storyboards
+TODO: Iterations: a set of interdependent features per iteration.
+
+Iterations:
+1. Entry View 
+2. Skills
+3. 
+
+
 Features
 -----------
 
 * User authentication with optional password reprompt
 * Data sync & backup
 * Homepage View
-  * ??
-  * Goals (input by user somewhere) 
   * Items configurable in settings
-* Skills View
-  * Mindfulness skills
-  * Distress tolerance skills
-  * Emotion regulation skills
-  * Issue-specific skills
-* Entry View
-  * **Thoughts / Journaling**
-  * **Emotions**: Emotion, intensity, trigger, response, outcome
-  * **Urges**: Urge, intensity, trigger, response, outcome
-  * **Actions**: Action, trigger, outcome
-  * **Events**: Event, response
-  * **Suggestions**: Skills, actions
-  * **Issue-specific items**
-* History View
-  * View entry elements on timeline
+    * Greeting quote
+    * Skill of the day
+    * giant smiley face
+    * Goals
+  * Timeline / Calendar
+    * Tap on date to create entry for that date
   * Historical statistics
   * Suggestions for treatments and activities based on history
+
+* Skills View
+  * Browse available skills 
+    * Sort / categorize by skill attribute 
+  * View a specific skill
+  * Enter a skill
+
+* Entry View
+  * **Date**
+  * **Thoughts / Journaling**
+  * **Emotions**: Emotion, intensity, trigger
+  * **Urges**: Description, intensity, trigger, acted on?
+  * **Skills Used**: 
+    * list of <skill, description, effective?>
+    * add skill
+  * **Suggested Skills**:
+    * start minimized
+      * user can expand if they want suggestions
+    * List of suggested coping skills
+      * "x" to indicate not interested in skill
+
+* External Resources View
+  * Third party help sources and informational resources
 * Crisis View
   * Phone and email hotlines for different conditions, locations, situations
-  * Third party help sources and informational resources
 * Settings View
   * Tracked items
     * Undesired behaviors
@@ -55,6 +76,16 @@ Data Types
     * Mindfulness skills
 * (Synced) User Profile Information
   * Entries
+
+Skills
+------
+
+* Effectiveness by urge
+* Effectiveness by emotion
+  * e.g., this skill is 6/10 effective for sadness, 8/10 for anxiety, etc.
+* Is in "favorites"?
+* Properties:
+  * ...
 
 Open Issues
 -----------
